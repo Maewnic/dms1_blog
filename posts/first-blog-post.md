@@ -10,7 +10,17 @@ allow_math: true
 
 ![a drippy lemon](logo.svg)
 
-![a group of students in front of the black box](scavenger_hunt_1.jpg)
+![a group of students in front of the black box or a possible one?](scavenger_hunt_1.jpg)
+
+![The disembodied hands of a great ape.](scavenger_hunt_2.jpg)
+
+![Definitely the study place for Sith Lord](scavenger_hunt_3.jpg)
+
+![The wide machine, dispensing beverages from a far away land... Thinking of it. It could be the flying turtle because it's from my home country, Thailand but nevermind.](scavenger_hunt_4.jpg)
+
+![The golden globe atop a tower](scavenger_hunt_5.jpg)
+
+![Some sort of net made by papers](scavenger_hunt_6.jpg)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
