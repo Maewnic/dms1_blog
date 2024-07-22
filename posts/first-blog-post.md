@@ -10,6 +10,8 @@ allow_math: true
 
 ![a drippy lemon](logo.svg)
 
+![a group of students in front of the black box](scavenger_hunt_1.jpg)
+
 ^ images are written like this: `![description](file_path/file_name.png)`
 
 ## This is h2
