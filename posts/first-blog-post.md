@@ -32,7 +32,7 @@ allow_math: true
 
 **This is bold.**
 
-[Experiment on Pr transitions, keyframes and editing tools using three 30 seconds clip. Two clips from friends. Merged in to a single clip](https://youtu.be/jsR2qI64CJ0)
+[Experiment on Pr transitions, keyframes and editing tools using three 30 seconds clip. Two clips from friends. Merged in to a single clips](https://youtu.be/jsR2qI64CJ0)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jsR2qI64CJ0?si=yPa1CPU7nY27eI1m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
