@@ -1,5 +1,5 @@
 ---
-title: This is a blog post!
+title: This is Munich's blog post!
 published_at: 2022-11-04
 snippet: An example of a blog post.
 disable_html_sanitization: true
@@ -8,9 +8,9 @@ allow_math: true
 
 # This is h1
 
-**Scavenger Hunt**
-
 ![a drippy lemon](logo.svg)
+
+**Scavenger Hunt**
 
 ![a group of students in front of the black box or a possible one?](scavenger_hunt_1.jpg)
 
@@ -26,7 +26,7 @@ allow_math: true
 
 **Selfie Design**
 
-! [Playing with Ps to edit my selfie](Selfie_design.png)
+![Playing with Ps to edit my selfie](Selfie_design.png)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
