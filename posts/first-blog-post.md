@@ -8,6 +8,8 @@ allow_math: true
 
 # This is h1
 
+**Scavenger Hunt**
+
 ![a drippy lemon](logo.svg)
 
 ![a group of students in front of the black box or a possible one?](scavenger_hunt_1.jpg)
@@ -21,6 +23,10 @@ allow_math: true
 ![The golden globe atop a tower](scavenger_hunt_5.jpg)
 
 ![Some sort of net made by papers](scavenger_hunt_6.jpg)
+
+**Selfie Design**
+
+! [Playing with Ps to edit my selfie](Selfie_design.png)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
