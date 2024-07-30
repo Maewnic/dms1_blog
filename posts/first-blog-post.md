@@ -54,6 +54,8 @@ You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-s
 
 ![BladeRunner2049 Storyboard 3](Storyboard_P3.jpg)
 
+^ images are written like this: `![description](file_path/file_name.png)`
+
 ## Maths:
 
 ... which can be written inline, like this: $\{ x, y, z \} \in \N$
