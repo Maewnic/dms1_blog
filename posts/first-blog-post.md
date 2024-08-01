@@ -48,13 +48,25 @@ You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-s
 
 ### This is h3
 
+**Class activity storyboard**
+
 ![BladeRunner2049 Storyboard 1](Storyboard_P1.jpg)
 
 ![BladeRunner2049 Storyboard 2](Storyboard_P2.jpg)
 
 ![BladeRunner2049 Storyboard 3](Storyboard_P3.jpg)
 
-^ images are written like this: `![description](file_path/file_name.png)`
+**Task 1 Storyboard**
+
+![Task1 Storyboard p1](T1_Storyboard_p1.jpg)
+
+![Task1 Storyboard p2](T1_Storyboard_p2.jpg)
+
+![Task1 Storyboard p3](T1_Storyboard_p3.jpg)
+
+![Task1 Storyboard p4](T1_Storyboard_p4.jpg)
+
+![Task1 Storyboard p5](T1_Storyboard_p5.jpg)
 
 ## Maths:
 
