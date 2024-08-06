@@ -59,14 +59,27 @@ You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-s
 **Task 1 Storyboard**
 
 ![Task1 Storyboard p1](T1_Storyboard_p1.jpg)
+*Ambient sounds are present the whole video, giving a sense of realism*
+*A quite beeping sound from the pedestrian crossing. Beeping in a slow tempo*
+*Slow music playing*
 
 ![Task1 Storyboard p2](T1_Storyboard_p2.jpg)
+*Similar to the page 1*
 
 ![Task1 Storyboard p3](T1_Storyboard_p3.jpg)
+*This is the important part. The slow beep that has been present throughout the montarge switched to a faster beep. This time the video will give a sense of rush and busyness.*
+*The music is also in a faster paste*
 
 ![Task1 Storyboard p4](T1_Storyboard_p4.jpg)
+*Continues from the previous page*
+*A little over midway through this page. The beep return back to normal tempo as the start*
 
 ![Task1 Storyboard p5](T1_Storyboard_p5.jpg)
+*The beep and the music stops once there's a ding sound from the lift. Stopping all the tension*
+*After the lift door opens, the music returns. This creates a really strong scene and a dramatic effect*
+
+#### This is h4
+**30 second sound design task has not been done due to sickness absence**
 
 ## Maths:
 
