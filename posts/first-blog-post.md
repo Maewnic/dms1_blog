@@ -79,7 +79,14 @@ You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-s
 *After the lift door opens, the music returns. This creates a really strong scene and a dramatic effect.*
 
 #### This is h4
-**30 seconds sound design task has not been done due to sickness absence**
+**Class activity 30 seconds sound design task has not been done due to sickness absence**
+
+[Selfportrait video draft](https://youtu.be/0e1ywB-kRzA)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0e1ywB-kRzA?si=HqiXUcyS9LuKVb4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### This is h5
+![Class Activity Black Squares](blacksquares.png)
 
 ## Maths:
 
