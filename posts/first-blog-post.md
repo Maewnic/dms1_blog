@@ -30,7 +30,7 @@ allow_math: true
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
-## This is h2
+# This is h2
 
 *This is italic.*[^1]
 
@@ -46,7 +46,7 @@ Hyperlinks can be written like this: `[text](https://URL)`
 
 You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
 
-### This is h3
+# This is h3
 
 **Class activity storyboard**
 
@@ -78,15 +78,22 @@ You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-s
 *The beep and the music stops once there's a ding sound from the lift. Stopping all the tension.*
 *After the lift door opens, the music returns. This creates a really strong scene and a dramatic effect.*
 
-#### This is h4
+# This is h4
 **Class activity 30 seconds sound design task has not been done due to sickness absence**
 
 [Selfportrait video draft](https://youtu.be/0e1ywB-kRzA)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0e1ywB-kRzA?si=HqiXUcyS9LuKVb4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-##### This is h5
+# This is h5
 ![Class Activity Black Squares](blacksquares.png)
+*I learned to use a 'square tool' to create a square and use ALT to quickly duplicate the squares. Using spacebar make it easier to navigate around*
+
+*While making the squares I uses elements of design thinking to the task*
+*I uses Emphatize to understand that these designs are for the teacher and students to see. Then I have to define to get a strong idea of what I am suppose to design and what rules are there, such as no more than 4 squares and have to only be black. I looked up on Google to get an idea of what each topic should look like or feel like while viewing. After that I then play around with the design, creating 8 prototypes for each topics. I asked my friend to test and asked for feedback to see if what I designed is relatable to the topic given or not. After everything I picked the designs I think are the best out of each topics and show it at the bottom as a final design.*
+
+**Which prompt/s am I appealed the most?**
+**- I am very interested in doing 'Future and Dream'**
 
 ## Maths:
 
