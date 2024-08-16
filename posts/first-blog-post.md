@@ -104,6 +104,10 @@ You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-s
 
 ![Concept drawing](Dream_Generator.jpg)
 
+# This is h6
+
+![Speed drawing in class activity](Pets_Icons_Sketch.png)
+
 ## Maths:
 
 ... which can be written inline, like this: $\{ x, y, z \} \in \N$
