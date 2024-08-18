@@ -110,25 +110,25 @@ You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-s
 *Though I drew a lot of drawing of cats and dogs to represent 'pets' I realised that people would just think of these as a cat or a dog rather than 'pets'. However, Something I drew that may represent 'pets' more would be something like drawing 16. It's a drawing of a dog sleeping on a dog bed which is something mostly domestic dogs have access to. Therefore, the viewer would think of that more as a pet compare to just a head of a dog.*
 
 **I created 9 categories for dreams. Travel, action, love, time travel, super power, nightmare, famous, abstract, and relax**
-![45 sketches hw](45_Icons_Sketch)
+![45 sketches hw](45_Icons_Sketch.jpg)
 *I picked the rocket one because in dreams you can travel anywhere and a rocket would extend beyond the place we know*
-![45 sketches hw](45_Icons_Sketch2)
+![45 sketches hw](45_Icons_Sketch2.jpg)
 *Action just makes the most sense with both melee and gun*
-![45 sketches hw](45_Icons_Sketch3)
+![45 sketches hw](45_Icons_Sketch3.jpg)
 *I like the flow trail of the heart, I think it would be a great consistance style to have a bit of flow in each icons*
-![45 sketches hw](45_Icons_Sketch4)
+![45 sketches hw](45_Icons_Sketch4.jpg)
 *Hourglass is a fancy way to show off time. I added a bit of flow line into this too*
-![45 sketches hw](45_Icons_Sketch5)
+![45 sketches hw](45_Icons_Sketch5.jpg)
 *Same reason as the 'love' sketch, I like the flow in it*
-![45 sketches hw](45_Icons_Sketch6)
+![45 sketches hw](45_Icons_Sketch6.jpg)
 *Ghost is pretty much a standard for horror and nightmare, I also think it's the best out of all due to the flow of it*
-![45 sketches hw](45_Icons_Sketch7)
+![45 sketches hw](45_Icons_Sketch7.jpg)
 *This one I find it hard to show how it's about fame. I think trophy and a star might make the most sense?*
-![45 sketches hw](45_Icons_Sketch8)
+![45 sketches hw](45_Icons_Sketch8.jpg)
 *Another hard one to show. I think graphic shapes are quite simple yet communicate a lot about how this is abstract*
-![45 sketches hw](45_Icons_Sketch9)
+![45 sketches hw](45_Icons_Sketch9.jpg)
 *The glass have a similar style to the hourglass to keep the consistancey. I also think it adds a bit of fun into this 'relaxing' design too*
-![45 sketches hw](45_Icons_Sketch10)
+![45 sketches hw](45_Icons_Sketch10.jpg)
 *Finally, for the final touch. I realised that these maybe hard to find it relation to dream, so I think adding a bubble around all of the icons might make more sense*
 
 
